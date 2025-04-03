@@ -10,14 +10,8 @@ Before transitioning into data analytics, I worked in social media marketing as 
 In this role, I collaborated with businesses in both B2B and B2C segments to curate their social media marketing strategies for their ncreased brand presence.
 
 Skills & Learning
-I am currently enhancing my expertise in:
+I am currently enhancing my expertise in: Python for data analysis and automation, Advanced SQL for data querying and management, Exploratory Data Analysis (EDA) and data visualization techniques,ETL testing and ETL automation using Python and SQL.
 
-Python for data analysis and automation.
-Advanced SQL for data querying and management.
-Exploratory Data Analysis (EDA) and data visualization techniques.
-ETL testing and ETL automation using Python and SQL.
-
-Collaboration & Contact
-📫 Let's connect! If you have a project or an opportunity to collaborate, feel free to reach out via my LinkedIn profile:https://www.linkedin.com/in/gupta-prakriti21/
+If you have a project or an opportunity to collaborate, feel free to reach out via my LinkedIn profile:https://www.linkedin.com/in/gupta-prakriti21/
 or email me at prakritigupta59@gmail.com.
 
